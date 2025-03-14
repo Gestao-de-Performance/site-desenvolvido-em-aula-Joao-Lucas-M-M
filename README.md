@@ -3,7 +3,15 @@
   <head>
   </head>
   <body>
-   <hi>Olá Mundo</hi>
+   <h1>Olá Mundo</h1>
+
+   <h2>H2</h2>
+   <h3>H3</h3>
+   <section>
+     <h2>Abilidades</h2>
+     <div>
+       <lmg width=``16px´´ width=``16px´´ scr=``img/html.png´´ alt=``Html´´>
+       <p>HTML</p>
+   </section>
   </body>
-<!-- Comentario -->
 </html>
