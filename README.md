@@ -11,7 +11,10 @@
      <h2>Abilidades</h2>
      <div>
        <lmg width=``16px´´ width=``16px´´ scr=``img/html.png´´ alt=``Html´´>
-       <p>HTML</p>
+         
+   <p>HTML</p>       
+    <span><img>html</span>
+         
    </section>
   </body>
 </html>
